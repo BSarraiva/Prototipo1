@@ -43,7 +43,7 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 ### Pré-requisitos
 Certifique-se de que você tenha as seguintes ferramentas instaladas em seu sistema:
 - [Git](https://git-scm.com)
-- [Node.js](https://nodejs.org/en/) (para instalação de pacotes, se necessário)
+- [Node.js](https://nodejs.org/en/) 
 
 ### Passos para Instalação
 
